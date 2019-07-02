@@ -1,0 +1,13 @@
+EL juego con el que empezaremos sera lo siguiente:
+
+
+FASE 1:
+Tendremos un jugador(Con Nombre) el cual tiene que adivinar que numero escogera el ordenador(Aleatorio del 1 - 10).
+Se tendra 3 vidas y si el jugador no adivina esas 3 veces automaticamente pierde y si adivina gana,
+en todo caso debe mostrarte un mensaje.
+
+NOTA:Para esta aplicacion se puede ejecutar lo que es datos de entrada y salida por consola, ya que 
+la razon mas importante es del aprendizaje del lenguaje Python.
+Suerte Ali***
+
+el codigo debe ser en ingles y los commits
